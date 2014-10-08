@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestModule/.idea/modules/testmodule.iml" filepath="$PROJECT_DIR$/TestModule/.idea/modules/testmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestModule/.idea/modules/testmodule-build.iml" filepath="$PROJECT_DIR$/TestModule/.idea/modules/testmodule-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testscala2.iml" filepath="$PROJECT_DIR$/.idea/modules/testscala2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testscala2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/testscala2-build.iml" />
+    </modules>
+  </component>
+</project>
+
