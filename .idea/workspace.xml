@@ -29,10 +29,10 @@
       <file leaf-file-name="Classes.scala" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/Classes.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1504298" vertical-offset="0" max-vertical-offset="930">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.752149" vertical-offset="0" max-vertical-offset="930">
+              <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
               <folding>
-                <element signature="e#990#994#0" expanded="true" />
+                <element signature="e#1011#1015#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -476,6 +476,9 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3a286618-616a-4641-987f-2cf447e68d5e" name="Default" comment="" />
@@ -612,10 +615,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/Classes.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1504298" vertical-offset="0" max-vertical-offset="930">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.752149" vertical-offset="0" max-vertical-offset="930">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
           <folding>
-            <element signature="e#990#994#0" expanded="true" />
+            <element signature="e#1011#1015#0" expanded="true" />
           </folding>
         </state>
       </provider>

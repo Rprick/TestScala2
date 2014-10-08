@@ -33,7 +33,7 @@ class Drawing {
     pt.move(10, 10)
     println(pt)
     val pt2 = pt copy;
-    val pt3 = pt.copy(); // andere syntax
+    val pt3 = pt.copy(); // same as above but different syntax
     pt.reset()
     println("pt = "+pt)
     println("pt2 = "+pt2)
